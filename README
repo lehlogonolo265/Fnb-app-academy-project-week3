@@ -1,0 +1,54 @@
+# Week 3 – FNB App Academy
+
+This repository contains my work for **Week 3** of the FNB App Academy, where I began building the **Pine City Zoo App** using real-world development practices. I applied the Software Development Life Cycle and expanded my skills in HTML and CSS by creating multiple pages of a functional web application.
+
+## 🧱 Project: Pine City Zoo App
+
+The Pine City Zoo app is a fictional tour guide application for a zoo. It includes a homepage, animal profiles, place descriptions, weather updates, and a feedback form.
+
+## 📚 Lessons Covered
+
+### ✅ Setting Up
+- Created project folders: `Pine City Zoo`, with subfolders for `images`
+- Set up base HTML structure and linked external CSS
+
+### 🏠 Home Page
+- Designed and styled the homepage
+- Added header, top and bottom tabs
+- Used fixed positioning and background images
+
+### 🐘 Animals Page
+- Created animal listing page with links to individual animal profiles
+- Used `info-box` design pattern for consistency
+- Added elephant details and page layout
+
+### 📍 Places Page
+- Added place descriptions like the Amphitheatre
+- Included information on shows and their times using an unordered list
+
+### 🌦️ Weather Page
+- Displayed current weather and weekly forecast
+- Used tables to present forecast data with weather icons
+- Styled temperature text and icons
+
+### 💬 Feedback Page
+- Built a form using `<input>` and `<textarea>`
+- Styled the form for user-friendly input
+- Added a submit button linking to a confirmation page
+
+### 🧩 Menu Fixes
+- Made all navigation tabs functional by linking them to the correct pages
+
+## 📁 Files Included
+
+- `index.html`: Home page
+- `animals.html`, `elephant.html`: Animal pages
+- `places.html`, `amphitheatre.html`: Place description pages
+- `weather.html`: Weather forecast page
+- `feedback.html`, `message-received.html`: Feedback form and confirmation
+- `style.css`: External stylesheet
+- `images/`: Folder containing all logos, icons, and photos used
+
+---
+
+This week focused on **practical app development** and applying CSS for layout, design consistency, and interactivity.
