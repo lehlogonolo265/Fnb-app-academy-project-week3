@@ -1,52 +1,58 @@
-Week 3 – FNB App Academy: Pine City Zoo App
+Week 3 – FNB App Academy
 
-This repository contains my work for Week 3 of the FNB App Academy. During this week, I built a multi-page mobile-style app called Pine City Zoo, applying real-world development processes, UI/UX design, and advanced HTML/CSS techniques.
+This repository contains my work for Week 3 of the FNB App Academy, where I learned how to build and style a multi-page app called Pine City Zoo using HTML and CSS. I also explored how real developers plan and structure apps through the Software Development Life Cycle.
 
-⸻
+📚 Lessons Covered
 
-🧠 Lessons Covered
+Section 1: Setting Up the Project
+	•	Created a folder structure for the app (Pine City Zoo and an images subfolder)
+	•	Downloaded all required images
 
-📋 Development Process
-	•	Overview of the Software Development Life Cycle (SDLC)
-	•	Introduction to UX/UI design principles
-	•	Folder setup and organizing assets
+Section 2: Building the Home Page
+	•	Coded the homepage using HTML
+	•	Added navigation tabs (top and bottom)
+	•	Placed a map image in the main content area
 
-🏠 Home Page
-	•	Building the homepage layout with fixed header and footer tabs
-	•	Styling with external CSS (style.css)
-	•	Displaying interactive map and navigation links
+Section 3: Styling the Home Page
+	•	Styled the header using background images and fixed positioning
+	•	Designed top navigation tabs with links to other sections
+	•	Styled the main section and bottom tabs
 
-🐘 Animal Pages
-	•	Creating a list of animals with image thumbnails and brief descriptions
-	•	Building detailed bio pages for each animal (e.g., elephant page)
-	•	Styling info boxes and content layout
-	•	Linking pages with navigation bars
+Section 4: Animals Page
+	•	Created the Animals page with links to individual animal profiles
+	•	Styled animal preview boxes using div elements and CSS
+	•	Implemented layout with floating images, headings, and descriptions
 
-📍 Places Page
-	•	Adding zoo locations like the Amphitheatre
-	•	Including show schedules and structured content with <ul> lists
-	•	Navigation and linking improvements
+Section 5: Animal Details Page (Elephant)
+	•	Created a detailed info page for the elephant
+	•	Used a full-width image, multiple paragraphs, and styled container boxes
+	•	Styled the page to match the overall app design
 
-🌤️ Weather Page
-	•	Displaying current weather conditions and forecasts
-	•	Using icons and temperature readings
-	•	Creating and styling a weather forecast table
+Section 6: Places Page
+	•	Built the Places page with links like the amphitheatre
+	•	Added info boxes similar to the Animals page
+	•	Connected all links using real filenames instead of #
 
-📝 Feedback Page
-	•	Creating a form for user input (Name, Email, Message)
-	•	Styling text inputs, textareas, and submit button
-	•	Linking to a confirmation page (message-received.html)
+Section 7: Amphitheatre Page
+	•	Created a dedicated page with a program list using <ul> for daily events
+	•	Used strong headings and descriptive paragraphs
 
-⸻
+Section 8: Weather Page
+	•	Designed a weather summary using text, icons, and a weekly forecast table
+	•	Styled with CSS to adjust icon size, layout, and temperature display
 
-🗂️ Files Included
-	•	index.html: Zoo map homepage
-	•	animals.html: List of animals
-	•	elephant.html, lion.html, etc.: Individual animal bio pages
-	•	places.html: Zoo places page
-	•	amphitheatre.html: Event schedule
-	•	weather.html: Weather info with forecast table
-	•	feedback.html: Feedback form
-	•	message-received.html: Submission confirmation
-	•	style.css: Main stylesheet for the entire app
-	•	images/: Folder with all necessary icons, logos, and animal images
+Section 9: Feedback Page
+	•	Added a feedback form with fields for name, email, and message
+	•	Used inputs, textareas, and a submit button
+	•	Styled the form with simple, user-friendly CSS
+
+📁 Files Included
+	•	index.html: Home page of the Pine City Zoo app
+	•	animals.html: Animal listing page
+	•	elephant.html: Detailed page about the elephant
+	•	places.html: List of zoo locations
+	•	amphitheatre.html: Info page for the amphitheatre
+	•	weather.html: Weather forecast page
+	•	feedback.html: Contact/feedback form page
+	•	style.css: Central stylesheet for layout and styling
+	•	images/: Contains all necessary images for the project
